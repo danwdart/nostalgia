@@ -10,9 +10,9 @@ Outputs in human-readable or JSON (-j flag in CLI).
 
 API outputs based on Accept header (text/plain, text/html or application/json).
 
-Change the locale using 
+Change the locale using
 
-CLI e.g.: 
+CLI e.g.:
 
 $ nostalgia 2000-01-01
 
